@@ -80,7 +80,7 @@ energy_dict['kb_util'] = np.append(energy_dict['kb_util'], ['BDH1', 'BDH2'])
 
 # adding new energy related gene sets
 # malate-aspartate shuttle, 'R-HSA-9856872'
-energy_dict['mas'] = ['SLC25A18', 'SLC25A22', 'SLC25A13', 'SLC25A12', 'SLC25A11'
+energy_dict['mas'] = ['SLC25A18', 'SLC25A22', 'SLC25A13', 'SLC25A12', 'SLC25A11',
                       'MDH1', 'MDH2', 'MDH1B',
                       'GOT1', 'GOT2']
 
