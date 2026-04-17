@@ -9,7 +9,7 @@ The [scripts](scripts/) folder conatins all the scripts required to run the anal
 ## data
 To be able to run the scripts, please download the following data
 
-- [BrainSpan dataset](https://www.brainspan.org/static/download.html): download "RNA-Seq Gencode v10 summarized" to exons and "Exon microarray summarized to genes"
+- [BrainSpan dataset](https://www.brainspan.org/static/download.html): download "RNA-Seq Gencode v10 summarized to exons" and "Exon microarray summarized to genes"
 
 The [data](data/) folder includes all data needed to run the scripts:
 - Structural classes and functional network assignments (Mesulam, Von Economo-Koskinas and Yeo-Krienen) for Schafer-400 and Schaefer-100 parcellations.
